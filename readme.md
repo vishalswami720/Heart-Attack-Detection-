@@ -2,7 +2,7 @@
 ```
 import requests
 
-url = "https://www.tejasswami.shop/fingerPrints/new" 
+url = "https://www.vishalswami.shop/fingerPrints/new" 
 
 try:
     response = requests.get(url)  
